@@ -4,6 +4,8 @@ Memory game in <140 characters.
 
 How many numbers can you remember?
 
+You can play in [JsFiddle (click)](http://jsfiddle.net/pirobtumen/a1cgmdnb/).
+
 ###License
 
 [MIT License](https://github.com/pirobtumen/numemory/blob/master/LICENSE.txt)
